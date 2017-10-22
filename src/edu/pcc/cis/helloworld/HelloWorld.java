@@ -10,5 +10,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("First Feature!");
         System.out.println(new Date());
+        System.out.println("By Lisa Sherer");
     }
 }
